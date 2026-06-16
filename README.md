@@ -1,2 +1,0 @@
-# uno-barbershop
-Tugas RPL
